@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi, I'm Eric Stober! 👋
+
+### 💻 About Me
+I am a passionate ***Software Developer*** with expertise in building clean, responsive, and user-friendly websites.
+My focus is creating meaniful experiences through:
+- HTML, CSS, JavaScript
+- Next.JS
+- PHP
+I enjoy solving problems. optimzing web performance and SEO, and bringing ideas to life on the internet.
+
+### 🌟 What I Do
 
 <!--
 **ericstober/ericstober** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
