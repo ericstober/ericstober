@@ -27,7 +27,7 @@ My focus is creating meaniful experiences through web platforms. I enjoy solving
 ### 🌐 Connect with Me
 
 - [Website](https://eric-stober.com/)
-- [GitHub](https://github.com/ericstober/ericstober)
+- [GitHub](https://github.com/ericstober)
 - [LinkedIn](https://www.linkedin.com/in/estober/)
 
 <!--
