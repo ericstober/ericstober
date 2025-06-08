@@ -9,7 +9,6 @@ My focus is creating meaniful experiences through web platforms. I enjoy solving
 
 - **Frontend Development**: Crafting engaging, accessible, and visually appealing user interfaces.
 - **Backend Development**: Writing robust server-side logic and integrating with databases.
-- **Freelance Projects**: Helping small businesses and entrepreneurs establish their online presence.
 
 ### 🚀 My Goals
 
