@@ -19,12 +19,11 @@ My focus is creating meaniful experiences through web platforms. I enjoy solving
 ### Tools & Technologies
 
 - **Languages**: HTML, CSS, JavaScript, PHP
-- **Frameworks/Libraries**: Bootstrap, Tailwind CSS, Next.js
+- **Frameworks/Libraries**: React, Next.js, Tailwind CSS
 - **Tools**: Git, VS Code
 - **Databases**: MySQL, PostgreSQL, NoSQL
 
 ### Connect with Me
 
 - [Website](https://eric-stober.com/)
-- [GitHub](https://github.com/ericstober)
 - [LinkedIn](https://www.linkedin.com/in/estober/)
